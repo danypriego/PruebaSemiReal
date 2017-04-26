@@ -1,3 +1,13 @@
+h1{
+	text-align: center;
+}
+h3{
+	color: green;
+}
+
+h6{
+	font-size: 16px;
+}
 p{
 	font-size: 14px;
 	text-align: center;
