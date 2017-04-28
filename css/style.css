@@ -24,3 +24,6 @@ li{
 a:hover{
 	cursor: progress;
 }
+.contenedor{
+margin-left= 20%;	
+}
